@@ -2,3 +2,5 @@
 
 Problem Statement:
 As a data analyst we have been given an access to national healthcare oversight organization dataset which consists of 55,5000 unique patient records from 10 major hospitals across the U.S. The dataset captures a broad view of hospital admissions, medical conditions, medications, insurance providers, and treatment costs. our goal is to uncover insights that can drive better healthcare decisions, optimize costs, and improve patient outcomes.
+
+Tools Used: Power BI, Power point, Excel, Flaticons 
