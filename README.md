@@ -41,6 +41,6 @@ A negative billing of ~$107.85𝐊suggests refunds or billing adjustments
 𝐂𝐥𝐢𝐧𝐢𝐜𝐚𝐥 𝐅𝐢𝐧𝐝𝐢𝐧𝐠𝐬:55% of test results are abnormal
 𝐂𝐨𝐬𝐭 & 𝐒𝐭𝐚𝐲: No major differences by admission type
 
-Live interactive dashboard link: https://app.powerbi.com/reportEmbed?reportId=b0203c11-d87f-4338-91c4-f91916531d1e&autoAuth=true&ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4
+Live interactive dashboard link: https://app.powerbi.com/view?r=eyJrIjoiOGZjYTEyNjQtYzk0ZC00M2EwLWI3NzctYTgyMzhkMmQ5ODEwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 Linkedin Post Link: https://www.linkedin.com/posts/pavani-madishetty-0250292b_datadna-powerbi-dataanalytics-activity-7321246662134325248-Yvy2?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAY7jt0BK-fpL1bUYshVKXx7q1l7MWrusMc
  
